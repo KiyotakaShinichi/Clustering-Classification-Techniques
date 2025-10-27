@@ -8,7 +8,7 @@ Feature Importance: Identify which features contribute most to the predictions.
 
 K-Means Clustering: Determine optimal cluster of patient groups using the Elbow Method and Silhouette Score.
 
-Classification: Logistic Regression, XGBoost, and K-Nearest Neighbors (KNN), with GridSearchCV for hyperparameter tuning.
+Classification: Logistic Regression, XGBoost, and other algorithms, with GridSearchCV for hyperparameter tuning.
 
 Ensemble Learning: Implemented Voting, Boosting, and Stacking approaches to improve model robustness.
 
